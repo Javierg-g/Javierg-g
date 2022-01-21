@@ -1,5 +1,5 @@
-### Javier García
-## **Mobile app** development student interested in **Cybersecurity
+#Javier García
+**Mobile app** development student interested in **Cybersecurity**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javierg-g&show_icons=true&theme=dark&hide=prs,issues,contribs)
 
