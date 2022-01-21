@@ -4,6 +4,9 @@
 
 <details><summary>About me</summary>
 <p>
+  - 19 yo 🇪🇸
+  - Technical Degree in Mobile Apps Development 
+  
 </p>
 </details>
 
