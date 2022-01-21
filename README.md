@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javierg-g&show_icons=true&theme=dark&hide=prs,issues,contribs)
 
->Github page: [***Personal Website***](https://javierg-g.github.io)
+>**Personal Website**: [](https://javierg-g.github.io)
 
 
 
