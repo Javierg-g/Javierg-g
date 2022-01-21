@@ -2,7 +2,7 @@
 
 > **Mobile app** development student interested in *Cybersecurity* 
 
-[Personal website](https://javierg-g.github.io)
+[Website](https://javierg-g.github.io)
 
 
 
