@@ -5,6 +5,14 @@
 [Website](https://javierg-g.github.io)
 
 
+<details><summary>Technologies</summary>
+<p>
+
+
+</p>
+</details>
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javierg-g&show_icons=true&theme=dark&hide=prs,issues,contribs)
