@@ -1,6 +1,6 @@
 # Javier García
 
-> **Mobile app** development student interested in **Cybersecurity**
+> **Mobile app** development student interested in *Cybersecurity*
 
 
 
