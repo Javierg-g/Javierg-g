@@ -10,7 +10,7 @@
 </details>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javierg-g&show_icons=true&theme=dark&hide=prs,issues,contribs&tittle_color=3AFF00&text_color=34FD6E&icon_color=FFFFFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javierg-g&show_icons=true&theme=dark&hide=prs,issues,contribs&tittle_color=3AFF00&text_color=34FD6E&icon_color=F1B30C)
 
 >**Personal Website**: [Link](https://javierg-g.github.io)
 
