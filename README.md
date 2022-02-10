@@ -1,6 +1,6 @@
-# Javier García
+# Javier García :technologist:
 
-**Mobile app** development student interested in *Cybersecurity* 
+**Mobile app** development student interested in *Cybersecurity* :computer:
 
 <details><summary>About me</summary>
 
@@ -14,5 +14,5 @@
 
 **Personal Website**: [Link](https://javierg-g.github.io)
 
-__Credit for stats__: [Custom Stats](https://github.com/anuraghazra/github-readme-stats)
+_Credit for stats_: [Custom Stats](https://github.com/anuraghazra/github-readme-stats)
 
