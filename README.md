@@ -2,7 +2,7 @@
 
 **Mobile app** development student interested in *Cybersecurity* :computer:
 
-<details><summary>**About me** :arrow_down_small:</summary>
+<details><summary>About me :arrow_down_small:</summary>
 
   - 19 yo :es:
   - Technical Degree in Mobile Apps Development(in progress) :iphone:
