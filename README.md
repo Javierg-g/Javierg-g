@@ -4,8 +4,8 @@
 
 <details><summary>About me</summary>
 
-  - 19 yo
-  - Technical Degree in Mobile Apps Development(in progress)
+  - 19 yo :es:
+  - Technical Degree in Mobile Apps Development(in progress) :iphone:
 
 </details>
 
