@@ -14,5 +14,5 @@
 
 **Personal Website**: [Link](https://javierg-g.github.io)
 
-Credit for stats: [Custom Stats](https://github.com/anuraghazra/github-readme-stats)
+__Credit for stats__: [Custom Stats](https://github.com/anuraghazra/github-readme-stats)
 
